@@ -1,8 +1,0 @@
-[00:03:53]: [Join Announcement] 怒草队友
-[00:05:07]: [Roll Announcement] (KU_SpqLcyaV) 怒草队友 37 (1-100)
-[00:05:45]: [Vote Announcement] regenerate passed
-[00:09:39]: [Leave Announcement] 怒草队友
-[00:16:02]: [Join Announcement] 怒草队友
-[00:18:35]: [Leave Announcement] 怒草队友
-[00:19:51]: [Join Announcement] 怒草队友
-[00:20:30]: [Leave Announcement] 怒草队友
