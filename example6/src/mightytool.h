@@ -1,0 +1,1 @@
+int mouse(char* a);
